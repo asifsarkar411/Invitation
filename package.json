@@ -1,0 +1,8 @@
+{
+  "name": "asif-sayma-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable wedding invitation with MongoDB RSVP storage for Vercel",
+  "engines": { "node": ">=20" },
+  "dependencies": { "mongodb": "^6.12.0" }
+}
